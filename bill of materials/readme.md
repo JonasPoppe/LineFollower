@@ -11,3 +11,4 @@
 |6|Pololu Wheel 60×8mm|wiel|nieuw|5.83|1|5.83|
 |7|batterijhouder 6xAA|batterijhouder|nieuw|5.87|1|5.87|
 |8|24xAA batterij|batterij|nieuw|18.09|1|18.09|
+|9|PCB board|chassis|nieuw|0.95|1|0.95|
