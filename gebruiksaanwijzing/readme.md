@@ -1,7 +1,7 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-de 6 aa batterijen kunnen gewoon vervangen worden door de oude batterijen uit de houder te halen en nieuwe in te steken
+de 6 aa batterijen kunnen gewoon vervangen worden door de oude batterijen uit de houder te halen en nieuwe in te steken belangrijk! er moest geupgrade worden naar 8aa batterijen om de auto consitent te laten rijden! 
 
 ### draadloze communicatie
 #### verbinding maken
