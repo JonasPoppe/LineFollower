@@ -14,7 +14,7 @@ debug [on/off] – Toont de ingestelde parameters en uitlezingen (wit- en zwartw
 De sensoren meten waardes tussen 0 en 1000 om onderscheid te maken tussen wit en zwart. Deze waardes kunnen variëren door lichtinval, reflecties of andere storingen. Voor een betrouwbare werking moet de robot opnieuw gekalibreerd worden bij een verandering van omgeving of ondergrond.  
 
 ### settings
-De robot rijdt stabiel met volgende parameters:  
+De robot rijdt stabiel met volgende parameters: power: 35 diff:0.47 kp: 4 
 
 ### start/stop button
 uitleg locatie + werking start/stop button
